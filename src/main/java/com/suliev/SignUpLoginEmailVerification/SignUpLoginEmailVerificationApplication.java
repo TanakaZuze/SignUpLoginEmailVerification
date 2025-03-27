@@ -1,0 +1,13 @@
+package com.suliev.SignUpLoginEmailVerification;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SignUpLoginEmailVerificationApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SignUpLoginEmailVerificationApplication.class, args);
+	}
+
+}
